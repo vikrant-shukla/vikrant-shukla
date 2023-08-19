@@ -1,4 +1,4 @@
-<img src="/main.gif" width="1280" height="420">
+<img src="/main2.gif" width="1280" height="420">
 
 
 ## Hello, welcome to my GitHub! <img src="https://github.com/vikrant-shukla/vikrant-shukla/blob/main/wave.gif" height="25px" width="25px">
