@@ -1,4 +1,12 @@
-Languages
+<img src="https://raw.githubusercontent.com/saharsh-solanki/saharsh-solanki/master/main.gif" width="1280" height="250">
+
+### Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 [Python ](https://camo.githubusercontent.com/04305678953741d5643015d7a404433eb42170001b02bbe9ff701477ec52afb5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3030303f266c6f676f3d507974686f6e)
 
